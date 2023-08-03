@@ -11,6 +11,8 @@ body{
 }
 
 nav{
+     position: sticky;
+    top: 0;
     background-color: blue;
     color: azure;
     font-family: 'Ubuntu', sans-serif;
